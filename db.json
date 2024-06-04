@@ -3,34 +3,30 @@
         {
             "id": 1,
             "videoLink": "https://youtu.be/B5MBP9XfYQc?si=TCcQzfgz8JfPBmbz",
-            "image":"https://i.ytimg.com/vi/uVCDKfV69wA/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCwIVrNqIQUoMWm3vN_rgTlK3sJTA",
             "name": "Gaybulla Tursunov - Janona (Premyera)",
             "views": 1985,
-            "productMade":"Shox Media"
+            "productMade": "Shox Media"
         },
         {
             "id": 2,
-            "videoLink": "https://youtu.be/XLXOF3HkjDw?si=UpZnpJSOObO7py3g",
-            "image":"https://i.ytimg.com/vi/H89Ayd-1pjI/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLAqzDxAEhJR-QGCdAHxB3-isTi_FQ",
-            "name": "Ummon - Ketaver",
+            "videoLink": "https://youtu.be/9SGDpanrc8U?si=jHQnPCQ0WnYLdQmW",
+            "name": "Spring boot and Spring Rest",
             "views": 1558412,
-            "productMade":"Shox Media"
+            "productMade": "Shox Media"
         },
         {
             "id": 3,
             "videoLink": "https://youtu.be/LNOkP25d9As?si=w_LVi7yS06ckke6k",
-            "image":"https://i.ytimg.com/vi/bqWP7SbqZyA/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLBSXGNOmAM1BNAfCw3sEx8O7wsmMw",
             "name": "Mirjalol Ne'matov - Bir soniya qol",
             "views": 98526,
-            "productMade":"Shox Media"
+            "productMade": "Shox Media"
         },
         {
             "id": 4,
-            "videoLink": "https://youtu.be/LNOkP25d9As?si=w_LVi7yS06ckke6k",
-            "image":"https://i.ytimg.com/vi/VHygTMF98Rw/hqdefault.jpg?s…RhlIGAoOjAP&rs=AOn4CLDWolFoY3dp1nyNOJBG3_9QeGoztQ",
-            "name": "Barnoyev Mehriddin",
+            "videoLink": "https://youtu.be/CBQyLdubXzY?si=aeJMiaTFtOPfZASJ",
+            "name": "Izzat Shukuruv - Assalamu alayka ",
             "views": 98526,
-            "productMade":"Shox Media"
+            "productMade": "Shox Media"
         }
     ]
 }
