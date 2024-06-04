@@ -1,0 +1,32 @@
+{
+    "video": [
+        {
+            "id": 1,
+            "videoLink": "https://youtu.be/B5MBP9XfYQc?si=TCcQzfgz8JfPBmbz",
+            "name": "Gaybulla Tursunov - Janona (Premyera)",
+            "views": 1985,
+            "productMade":"Shox Media"
+        },
+        {
+            "id": 2,
+            "videoLink": "https://youtu.be/XLXOF3HkjDw?si=UpZnpJSOObO7py3g",
+            "name": "Ummon - Ketaver",
+            "views": 1558412,
+            "productMade":"Shox Media"
+        },
+        {
+            "id": 3,
+            "videoLink": "https://youtu.be/LNOkP25d9As?si=w_LVi7yS06ckke6k",
+            "name": "Mirjalol Ne'matov - Bir soniya qol",
+            "views": 98526,
+            "productMade":"Shox Media"
+        },
+        {
+            "id": 4,
+            "videoLink": "https://youtu.be/LNOkP25d9As?si=w_LVi7yS06ckke6k",
+            "name": "Barnoyev Mehriddin",
+            "views": 98526,
+            "productMade":"Shox Media"
+        }
+    ]
+}
