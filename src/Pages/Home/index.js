@@ -20,15 +20,16 @@ export default function HomePage() {
       <Buttons />
       <Box sx={{ display: "flex", flexWrap: "wrap", gap: "20px", paddingTop: "10px" }}>
         {data.map((video) => (
-          <Card key={video.id} sx={{ borderRadius: "20px", paddingBottom: "20px", width: "calc(33.33% - 13.33px)" }}>
-            <Box sx={{ width: "100%", height: "0", paddingBottom: "56.25%", position: "relative" }}>
-              <iframe
-                src={video.videoLink.replace("watch?v=", "embed/")}
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-                title={video.name}
-                style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%" }}
+          <Card
+            key={video.id}
+            sx={{ borderRadius: "20px", paddingBottom: "20px", width: "calc(33.33% - 13.33px)" }}
+            onClick={() => window.open(video.videoLink, "_blank")}
+          >
+            <Box sx={{ width: "90%", height: "0", paddingBottom: "56.25%", position: "relative" }}>
+              <img
+                src={video.image}
+                alt={video.name}
+                style={{ position: "absolute", top: 0, left: 0, width: "100%", height: "100%", cursor: "pointer" }}
               />
             </Box>
             <Box sx={{ paddingLeft: "10px", paddingTop: "20px" }}>
@@ -43,7 +44,7 @@ export default function HomePage() {
                   lineHeight: "20px",
                 }}
               >
-                {video.productMade.toLocaleString()} views
+                {video.productMade}
               </Typography>
               <Typography
                 sx={{
